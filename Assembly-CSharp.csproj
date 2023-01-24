@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B04E3135-3E07-7971-E2D6-9F04724D9B84}</ProjectGuid>
+    <ProjectGuid>{D33E0A51-F066-B588-D8ED-C6A1F2100B9E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -56,10 +56,10 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Tests.cs" />
-    <Compile Include="Assets\Cell.cs" />
-    <Compile Include="Assets\Sudoku.cs" />
-    <Compile Include="Assets\Matrix.cs" />
+    <Compile Include="Assets\Scripts\Tests.cs" />
+    <Compile Include="Assets\Scripts\Cell.cs" />
+    <Compile Include="Assets\Scripts\Sudoku.cs" />
+    <Compile Include="Assets\Scripts\Matrix.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
